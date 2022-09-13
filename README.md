@@ -7,11 +7,11 @@ Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on sudoku
 - 🌱 I’m currently learning DBMS using PL/SQL
+- 💬 Ask me about job
+- 📫 How to reach me: tejprakashcarpenter@gmail.com
+<!--
 - 👯 I’m looking to collaborate on >-<
 - 🤔 I’m looking for help with >-<
-- 💬 Ask me about job
-- 📫 How to reach me: mailto:tejprakashcarpenter@gmail.com
-<!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
