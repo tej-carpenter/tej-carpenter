@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on sudoku
-- 🌱 I’m currently learning DBMS using PL/SQL
+- 🌱 I’m currently studying in NIT Trichy
 - 💬 Ask me about job
 - 📫 How to reach me: tejprakashcarpenter@gmail.com
 <!--
