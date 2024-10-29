@@ -4,6 +4,11 @@
 **tej-carpenter/tej-carpenter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
+---
+name: Tej Prakash Carpenter
+age: 21
+
+---
 
 - 🌱 I’m currently studying in NIT Trichy
 - 💬 Ask me about job
