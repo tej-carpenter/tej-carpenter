@@ -5,9 +5,8 @@
 
 Here are some ideas to get you started:-->
 ---
-name: Tej Prakash Carpenter
-age: 21
-
+- name : Tej Prakash Carpenter
+- age  : 21
 ---
 
 - 🌱 I’m currently studying in NIT Trichy
