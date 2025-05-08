@@ -1,20 +1,13 @@
-### Hi there 👋
+# Hi there 👋, I'm `Tej Prakash Carpenter`
 
-<!--
-**tej-carpenter/tej-carpenter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a student passionate about Artificial Intelligence and machine learning.
+## 📫 How to reach me
 
-Here are some ideas to get you started:-->
----
-- name : Tej Prakash Carpenter
-- age  : 21
----
+- Email: tejprakashcarpenter@gmail.com
+- LinkedIn: https://linkedin.com/in/tej-prakash-carpenter
 
-- 🌱 I’m currently studying in NIT Trichy
-- 💬 Ask me about job
-- 📫 How to reach me: tejprakashcarpenter@gmail.com
-<!--
-- 👯 I’m looking to collaborate on >-<
-- 🤔 I’m looking for help with >-<
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💬 Fun Facts
+
+- 🔭 I’m currently working as intern under `Prof. Sindhia Lingaswamy` in `NIT Trichy`
+- 🌱 I’m currently learning `Machine Learning`
+- ⚡ Fun fact: I’m also a `Navodayan`
